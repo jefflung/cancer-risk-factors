@@ -53,20 +53,20 @@ To use the model for predicting cancer risk:
    ```
    git clone https://github.com/jefflung/cancer-risk-factors.git
    cd cancer-risk-factors
-```
+
 2. Install dependencies
-```
-pip install -r requirements.txt
-```
+  ```
+  pip install -r requirements.txt
+  ```
 
 3. Load and run the prediction code
-```
-from sklearn.preprocessing import StandardScaler
-# load your model and new patient data
-prediction = best_model.predict(scaler.transform(new_data))
-risk_category = le_risk.inverse_transform(prediction)
-print("Predicted Risk Level:", risk_category)
-```
+   ```
+   from sklearn.preprocessing import StandardScaler
+   # load your model and new patient data
+   prediction = best_model.predict(scaler.transform(new_data))
+   risk_category = le_risk.inverse_transform(prediction)
+   print("Predicted Risk Level:", risk_category)
+   ```
 ---
 
 📌 Notes & Limitations
