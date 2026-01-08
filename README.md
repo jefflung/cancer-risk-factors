@@ -29,8 +29,7 @@ Cancer is a complex disease influenced by multiple factors including lifestyle, 
 📁 Repository Structure
 
 ├── Assignment.ipynb # Main notebook with analysis, modeling, evaluation</br>
-├── README.md # Project overview and instructions</br>
-└── requirements.txt # Python dependencies
+└──  README.md # Project overview and instructions
 
 
 ---
