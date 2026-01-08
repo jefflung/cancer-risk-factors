@@ -2,7 +2,7 @@ Cancer Risk Prediction with Machine Learning
 -------------------------------------------------------
 
 <img width="800" height="400" alt="2025-08-15_MLSS_Cover" src="https://github.com/user-attachments/assets/93a6dc27-648f-4f45-861a-509a0022342e" />
-
+<br>
 
 This repository contains a machine learning project that predicts an individual’s cancer risk level (low, medium, or high) based on clinical and demographic features.
 
