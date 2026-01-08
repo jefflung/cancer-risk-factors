@@ -55,9 +55,9 @@ To use the model for predicting cancer risk:
    cd cancer-risk-factors
 
 2. Install dependencies
-  ```
-  pip install -r requirements.txt
-  ```
+   ```
+   pip install -r requirements.txt
+   ```
 
 3. Load and run the prediction code
    ```
