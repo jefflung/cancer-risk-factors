@@ -89,6 +89,6 @@ Standard risk factor modeling approaches in health analytics
 
 👩‍💻 Contact
 
-Developed by jefflung
+Developed by Jeff Lung
 
 Feel free to open issues or submit pull requests for improvements!
