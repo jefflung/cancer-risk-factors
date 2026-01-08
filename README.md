@@ -1,4 +1,7 @@
 A machine learning model for prediction of cancer risk
+-------------------------------------------------------
+
+After the comparison of all models, the best model is XGBoost and its accuracy is 0.9900
 
 This model can be used to predict cancer risk levels of patients - low, medium or high:
 1. Data preparation - Keep patient data as same format as those in the excel file
