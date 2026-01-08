@@ -50,14 +50,14 @@ The model classifies patient records into risk levels that can support further c
 To use the model for predicting cancer risk:
 
 1. Clone the repository
-   
+   ```
    git clone https://github.com/jefflung/cancer-risk-factors.git
    cd cancer-risk-factors
-
+```
 2. Install dependencies
-
+```
 pip install -r requirements.txt
-
+```
 
 3. Load and run the prediction code
 ```
